@@ -1,0 +1,248 @@
+@article {Kimmel1995_253,
+  author = {Kimmel, Charles B. and Ballard, William W. and Kimmel, Seth R. and Ullmann, Bonnie and Schilling, Thomas F.},
+  title = {Stages of embryonic development of the zebrafish},
+  journal = {Developmental Dynamics},
+  volume = {203},
+  number = {3},
+  pages = {253--310},
+  year = {1995},
+}
+
+@article{Baehrecke2002_779,
+  author = {Baehrecke, Eric H.},
+  year = {2002},
+  pages = {779--787},
+  title = {How death shapes life during development},
+  volume = {3},
+  journal = {Nature reviews. Molecular cell biology}
+}
+
+
+@article{Maghsoudi2012_146,
+  author = {Maghsoudi, N and Zakeri,Z and Lockshin, R. A.},
+  year = {2012},
+  pages = {146--152},
+  title = {Programmed cell death and apoptosis - where it came from and where it is going: from Elie Metchnikoff to the control of caspases},
+  volume = {34},
+  journal = {Exp Oncol.}
+}
+
+
+@article{Lockshin1964_643,
+  title = "Programmed cell death-II. Endocrine potentiation of the breakdown of the intersegmental muscles of silkmoths",
+  journal = "Journal of Insect Physiology",
+  volume = "10",
+  number = "4",
+  pages = "643--649",
+  year = "1964",
+  author = "Lockshin, Richard A. and Williams, Carroll M."
+}
+
+@article{Lockshin1965_123,
+  title = "Programmed cell death-I. Cytology of degeneration in the intersegmental muscles of the Pernyi silkmoth",
+  journal = "Journal of Insect Physiology",
+  volume = "11",
+  number = "2",
+  pages = "123--133",
+  year = "1965",
+  author = "Lockshin, Richard A. and Williams, Carroll M."
+}
+
+@article{Krammer2000_789,
+  title = "CD95’s deadly mission in the immune system",
+  journal = "Nature",
+  volume = "407",
+  pages = "789--795",
+  year = "2000",
+  author = "Krammer, P. H."
+}
+
+
+
+@article{Thompson1995_1456,
+  author = {Thompson, C.B.},
+  year = {1995},
+  pages = {1456--1462},
+  title = {Apoptosis in the Pathogenesis and Treatment of Disease},
+  volume = {267},
+  journal = {Science}
+}
+
+
+
+@article{Yuan2000_802,
+  title = "Apoptosis in the nervous system",
+  journal = "Nature",
+  volume = "407",
+  pages = "802--809",
+  year = "2000",
+  author = "Yuan, J. and Yanker, B. A."
+}
+
+
+
+@article{Soengas2001_207,
+  author = {Soengas, Maria S. and Capodieci, Paola and Polsky, D and Mora, Jaume and Esteller, Manel and Opitz-Araya, Ximena and Mccombie, W and Herman, James and Gerald, WL and Lazebnik, Yuri and Cordon-Cardo, Carlos and Lowe, S. W.},
+  year = {2001},
+  pages = {207--211},
+  title = {Inactivation of the apoptosis effector Apaf1 in malignant melanoma},
+  volume = {409},
+  journal = {Nature}
+}
+
+
+@article{Stassi2002_195,
+  title = "Autoimmune thyroid disease: new models of cell death in autoimmunity",
+  journal = "Nature Rev. Immunol.",
+  volume = "2",
+  pages = "195--204",
+  year = "2002",
+  author = "Stassi, G. and De Maria, R."
+}
+
+
+@article{Cowan2001_551,
+  author = {Cowan, Maxwell W.},
+  title = {Viktor Hamburger and Rita Levi-Montalcini: The Path to the Discovery of Nerve Growth Factor},
+  journal = {Annual Review of Neuroscience},
+  volume = {24},
+  number = {1},
+  pages = {551--600},
+  year = {2001}
+}
+
+
+
+@article{Oppenheim1991_453,
+  author = {Oppenheim, R. W.},
+  title = {Cell Death During Development of the Nervous System},
+  journal = {Annual Review of Neuroscience},
+  volume = {14},
+  number = {1},
+  pages = {453--501},
+  year = {1991},
+}
+
+@article{Purves1988_123,
+  author = {Purves, D. and Snider, W.D. and Voyvodic, J.T.},
+  title = {Trophic regulation of nerve cell morphology and innervation in the autonomic nervous system},
+  journal = {Nature},
+  volume = {336},
+  pages = {123--128},
+  year = {1988},
+}
+
+@article{Raff1992_397,
+  author = {Raff, Martin},
+  year = {1992},
+  pages = {397--400},
+  title = {Social Controls on Cell Survival and Cell Death},
+  volume = {356},
+  journal = {Nature}
+}
+
+
+@article{Buss2006_1,
+  author = {Buss, Robert R. and Sun, Woong and Oppenheim, Ronald W.},
+  title = {Adaptive roles of programmed cell death during nervous system development},
+  journal = {Annual Review of Neuroscience},
+  volume = {29},
+  pages = {1--35},
+  year = {2006},
+}
+
+
+@article{Miura2012,
+  author = {Miura, Masayuki}, 
+  title = {Apoptotic and Nonapoptotic Caspase Functions in Animal Development},
+  volume = {4}, 
+  number = {10}, 
+  year = {2012},
+  journal = {Cold Spring Harbor Perspectives in Biology} 
+}
+
+@article {White1994_677,
+	author = {White, K and Grether, ME and Abrams, JM and Young, L and Farrell, K and Steller, H},
+	title = {Genetic control of programmed cell death in Drosophila},
+	volume = {264},
+	number = {5159},
+	pages = {677--683},
+	year = {1994},
+	journal = {Science}
+}
+
+
+@article {Yamaguchi2015_478,
+	author = {Yamaguchi, Yoshifumi and Miura, Masayuki},
+	title = {Programmed Cell Death in Neurodevelopment},
+	volume = {32},
+	number = {4},
+	pages = {478--490},
+	year = {2015},
+	journal = {Developmental Cell}
+}
+
+
+@article{Zakeri2002_3,
+  title = "Cell death during development",
+  journal = "Journal of Immunological Methods",
+  volume = "265",
+  number = "1",
+  pages = "3--20",
+  year = "2002",
+  author = "Zakeri, Zahra and Lockshin, Richard A"
+}
+
+
+@Article{Penaloza2006_149,
+  author="Penaloza, Carlos and Lin, Lin and Lockshin, Richard A. and Zakeri, Zahra",
+  title="Cell death in development: shaping the embryo",
+  journal="Histochemistry and Cell Biology",
+  year="2006",
+  volume="126",
+  number="2",
+  pages="149--158"
+}
+
+
+@article{Kurosaka2008_102,
+  author = {Kurosaka, Satoshi and Kashina, Anna},
+  title = {Cell biology of embryonic migration},
+  journal = {Birth Defects Research (Part C)},
+  volume = {84},
+  number = {2},
+  pages = {102--122},
+  year = {2008}
+}
+
+@article {Reig2014_1999,
+	author = {Reig, Germ{\'a}n and Pulgar, Eduardo and Concha, Miguel L.},
+	title = {Cell migration: from tissue culture to embryos},
+	volume = {141},
+	number = {10},
+	pages = {1999--2013},
+	year = {2014},
+	publisher = {The Company of Biologists Ltd},
+	journal = {Development}
+}
+
+@article{Angelini2010_168104,
+  title = {Cell Migration Driven by Cooperative Substrate Deformation Patterns},
+  author = {Angelini, Thomas E. and Hannezo, Edouard and Trepat, Xavier and Fredberg, Jeffrey J. and Weitz, David A.},
+  journal = {Phys. Rev. Lett.},
+  volume = {104},
+  pages = {168104},
+  year = {2010},
+  month = {Apr},
+}
+
+@article{Lo2000_144,
+  title = "Cell Movement Is Guided by the Rigidity of the Substrate",
+  journal = "Biophysical Journal",
+  volume = "79",
+  number = "1",
+  pages = "144--152",
+  year = "2000",
+  author = "Lo,Chun-Min and Wang,Hong-Bei and Dembo,Micah and Wang,Yu-li"
+}
+
